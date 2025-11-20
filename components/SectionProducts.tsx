@@ -6,11 +6,11 @@ import { supabase, isSupabaseConfigured } from '../services/supabaseClient';
 // Fallback data tailored to Gold Trading
 const fallbackProducts: Product[] = [
   { id: '1', name: '1kg Gold Bullion (99.9%)', category: 'Bullion', price: 76450.00, originalPrice: 78000.00, image: 'https://images.unsplash.com/photo-1620322880696-e3659ba35d56?q=80&w=600&auto=format&fit=crop', isNew: true },
-  { id: '2', name: 'Raw Gold Nuggets (22k)', category: 'Raw Gold', price: 68000.00, image: 'https://images.unsplash.com/photo-1608044893318-6e2e33c41486?q=80&w=600&auto=format&fit=crop' },
+  { id: '2', name: 'Raw Gold Nuggets (22k)', category: 'Raw Gold', price: 68000.00, image: 'https://images.unsplash.com/photo-1610375461246-83df859d849d?q=80&w=600&auto=format&fit=crop' },
   { id: '3', name: 'Gold Dust (Unrefined)', category: 'Dust', price: 62000.00, image: 'https://images.unsplash.com/photo-1618413139632-15f091915d11?q=80&w=600&auto=format&fit=crop', isNew: true },
-  { id: '4', name: '100g Gold Bar (Minted)', category: 'Bullion', price: 7700.00, image: 'https://images.unsplash.com/photo-1591896966237-7247256e65e9?q=80&w=600&auto=format&fit=crop' },
+  { id: '4', name: '100g Gold Bar (Minted)', category: 'Bullion', price: 7700.00, image: 'https://images.unsplash.com/photo-1622313265731-a0576489df57?q=80&w=600&auto=format&fit=crop' },
   { id: '5', name: 'Investment Coin (1oz)', category: 'Coins', price: 2450.00, image: 'https://images.unsplash.com/photo-1624453387319-062db3936281?q=80&w=600&auto=format&fit=crop' },
-  { id: '6', name: 'Jewelry Grade Pellets', category: 'Jewelry', price: 70000.00, image: 'https://images.unsplash.com/photo-1584302971424-9b457a4464c6?q=80&w=600&auto=format&fit=crop' },
+  { id: '6', name: 'Jewelry Grade Pellets', category: 'Jewelry', price: 70000.00, image: 'https://images.unsplash.com/photo-1599708153386-62e27c51033d?q=80&w=600&auto=format&fit=crop' },
 ];
 
 const categories = [

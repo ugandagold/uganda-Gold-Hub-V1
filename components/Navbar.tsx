@@ -42,11 +42,13 @@ const Navbar: React.FC = () => {
           <span className="hidden md:block text-xs font-medium" aria-hidden="true">UG / INT</span>
           
           <a 
-            href="tel:+1234567890" 
+            href="https://wa.me/256761389093"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2 border border-stone-900 rounded-full text-xs font-bold uppercase hover:bg-stone-900 hover:text-white transition-colors" 
-            aria-label="Call Us"
+            aria-label="Contact via WhatsApp"
           >
-            Call Us
+            WhatsApp
           </a>
 
           <button 

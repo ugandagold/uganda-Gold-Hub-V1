@@ -6,7 +6,7 @@ const projects = [
     title: 'Terrablast Resource Management & Blasting',
     location: 'Australia',
     year: '2023-2026',
-    image: 'https://images.unsplash.com/photo-1578326457399-3b34dbbf23b8?q=80&w=800&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1516937941344-00b4e0337589?q=80&w=800&auto=format&fit=crop'
   },
   {
     title: 'Minerex Site Resource Management & Survey',
@@ -24,13 +24,13 @@ const projects = [
     title: 'Orevision Integrated Survey & Extraction',
     location: 'Chile',
     year: '2021-2024',
-    image: 'https://images.unsplash.com/photo-1516937941344-00b4e0337589?q=80&w=800&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1578326457399-3b34dbbf23b8?q=80&w=800&auto=format&fit=crop'
   },
   {
     title: 'Deepcore Strategic High-Risk Site Evaluation',
     location: 'Peru',
     year: '2022-2025',
-    image: 'https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?q=80&w=800&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1605218427368-35b0f966f815?q=80&w=800&auto=format&fit=crop'
   },
   {
     title: 'Tratalink Mineral Logistics & Site Planning',

@@ -4,7 +4,7 @@ import { Linkedin, Twitter, Facebook } from 'lucide-react';
 
 // Team data from screenshot
 const teamData: TeamMember[] = [
-  { id: '1', name: 'Leo Carter', role: 'Equipment Operator', image: 'https://images.unsplash.com/photo-1537368910025-700350fe46c7?q=80&w=600&auto=format&fit=crop', quote: 'Precision in operation ensures safety for everyone.' },
+  { id: '1', name: 'Leo Carter', role: 'Equipment Operator', image: 'https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=600&auto=format&fit=crop', quote: 'Precision in operation ensures safety for everyone.' },
   { id: '2', name: 'Evan Brooks', role: 'Safety Inspector', image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=600&auto=format&fit=crop', quote: 'Safety is not just a checkbox, it is a culture.' },
   { id: '3', name: 'Mira Collins', role: 'Geological Survey', image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=600&auto=format&fit=crop', quote: 'Every rock tells a story of the earth\'s history.' },
   { id: '4', name: 'Isaac Nolan', role: 'Mineral Processing', image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=600&auto=format&fit=crop', quote: 'Efficiency in processing maximizes value.' },

@@ -102,6 +102,16 @@ const Footer: React.FC<FooterProps> = ({ onAdminClick }) => {
                <ul className="space-y-4">
                  <li><a href="#" className="hover:text-amber-400 transition-colors flex items-center gap-1">Kampala HQ</a></li>
                  <li><a href="#" className="hover:text-amber-400 transition-colors flex items-center gap-1">Entebbe Office</a></li>
+                 <li>
+                    <a href="https://wa.me/256761389093" target="_blank" rel="noopener noreferrer" className="hover:text-amber-400 transition-colors flex items-center gap-1">
+                       WhatsApp: +256 761 389 093
+                    </a>
+                 </li>
+                 <li>
+                    <a href="mailto:ugandagoldhub@gmail.com" className="hover:text-amber-400 transition-colors flex items-center gap-1">
+                       ugandagoldhub@gmail.com
+                    </a>
+                 </li>
                </ul>
              </div>
           </div>

@@ -7,9 +7,9 @@ const Hero: React.FC = () => {
       {/* Background Image */}
       <div 
         className="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: `url('https://images.unsplash.com/photo-1610375461246-83df859d849d?q=80&w=2940&auto=format&fit=crop')` }} 
+        style={{ backgroundImage: `url('https://images.unsplash.com/photo-1578326457399-3b34dbbf23b8?q=80&w=2940&auto=format&fit=crop')` }} 
       >
-        <div className="absolute inset-0 bg-black/30 md:bg-black/20"></div>
+        <div className="absolute inset-0 bg-black/40 md:bg-black/30"></div>
       </div>
 
       <div className="relative container mx-auto px-6 h-full flex flex-col justify-end pb-24 md:pb-32 pt-32 md:pt-0">

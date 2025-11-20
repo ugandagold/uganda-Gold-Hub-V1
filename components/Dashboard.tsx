@@ -77,7 +77,7 @@ const Dashboard: React.FC<DashboardProps> = ({ onBack }) => {
         category: newProduct.category,
         price: parseFloat(newProduct.price),
         originalPrice: newProduct.originalPrice ? parseFloat(newProduct.originalPrice) : null,
-        image: newProduct.image || 'https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=600&auto=format&fit=crop', // Fallback
+        image: newProduct.image || 'https://images.unsplash.com/photo-1610375461246-83df859d849d?q=80&w=600&auto=format&fit=crop', // Fallback
         isNew: newProduct.isNew
       };
 

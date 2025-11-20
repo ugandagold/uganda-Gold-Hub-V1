@@ -4,22 +4,22 @@ import { Pickaxe, Gem, ChevronLeft, ChevronRight } from 'lucide-react';
 const slides = [
   { 
     title: 'Ethical Extraction', 
-    image: 'https://images.unsplash.com/photo-1576506542790-512445485a36?q=80&w=1600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1598216058581-35433cb54547?q=80&w=1600&auto=format&fit=crop',
     description: 'Partnering with local communities for sustainable and safe mining practices.'
   },
   { 
     title: 'High Purity Refining', 
-    image: 'https://images.unsplash.com/photo-1639411677420-b903ce0920c4?q=80&w=1600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=1600&auto=format&fit=crop',
     description: 'State-of-the-art laboratories ensuring 99.9% purity in every bar.'
   },
   { 
     title: 'Secure Vaults', 
-    image: 'https://images.unsplash.com/photo-1585428247990-3248788f8d49?q=80&w=1600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?q=80&w=1600&auto=format&fit=crop',
     description: 'World-class security infrastructure for storage and international logistics.'
   },
   { 
     title: 'Global Logistics', 
-    image: 'https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1600&auto=format&fit=crop',
     description: 'Seamless CIF and FOB export procedures to major global hubs.'
   }
 ];
